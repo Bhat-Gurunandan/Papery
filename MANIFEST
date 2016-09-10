@@ -13,7 +13,7 @@ MANIFEST
 MANIFEST.SKIP
 META.yml
 README
-script/papery
+bin/papery
 t/00-load.t
 t/09-util.t
 t/20-simple.t
